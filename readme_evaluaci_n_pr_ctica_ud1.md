@@ -47,6 +47,7 @@ Esta práctica evalúa los conocimientos fundamentales sobre los **Lenguajes de 
 * **Validación (20%):** Código libre de errores y advertencias críticas según los estándares W3C.
 * **Documentación y Presentación (10%):** Claridad en el archivo `README.md`, comentarios adecuados en el código y orden en las carpetas.
 
+Palabra del día: Compañeros
 ---
 
 ## 👤 Autoría
